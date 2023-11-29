@@ -1,0 +1,34 @@
+[
+	{
+		"id": 1,
+		"title": "Костюм тренировочный",
+		"itemsInBox": 6,
+		"weight": 180,
+		"price": 300,
+		"imgSrc": "skatingstyle.jpg"
+	},
+	{
+		"id": 2,
+		"title": "Коньки GRAF Prestige",
+		"itemsInBox": 6,
+		"weight": 205,
+		"price": 250,
+		"imgSrc": "skatingstyle20.jpg"
+	},
+	{
+		"id": 3,
+		"title": "Лезвия Wilson Gold",
+		"itemsInBox": 6,
+		"weight": 182,
+		"price": 230,
+		"imgSrc": "skatingstyle3.jpg"
+	},
+	{
+		"id": 4,
+		"title": "Колготки Primavera",
+		"itemsInBox": 6,
+		"weight": 230,
+		"price": 320,
+		"imgSrc": "skating40.jpg"
+	}
+]
